@@ -1,2 +1,1 @@
-# market-inflation-rate-calculation
- Market Inflation Rate Calculation
+"# js-kurs-kalkulator-inflacije" 
